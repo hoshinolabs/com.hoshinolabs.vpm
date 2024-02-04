@@ -1,13 +1,13 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://hoshinolabs-vrchat.github.io/com.hoshinolabs.vpm/vpm-prerelease.json",
+    "name":"Hoshino Labs. (PreRelease)",
+    "id":"com.hoshinolabs.vpm-prerelease",
+    "url":"https://vpm.hoshinolabs.com/vpm-prerelease.json",
     "author":{
         "email":"magi.ikuko@gmail.com",
         "name":"ikuko",
         "url":"https://hoshinolabs.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"HoshinoLabs listing of VRChat packages",
     "infoLink":{
         "url":"http://github.com/hoshinolabs-vrchat/com.hoshinolabs.vpm",
         "text":"View on GitHub"
