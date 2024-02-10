@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hoshinolabs-vrchat/com.unity.scriptablebuildpipeline"
+        "hoshinolabs-vrchat/com.unity.scriptablebuildpipeline",
+        "hoshinolabs-vrchat/Sardinject"
     ],
     "packages":[
     ]
