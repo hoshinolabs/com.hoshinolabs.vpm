@@ -16,7 +16,8 @@
     "githubRepos":[
         "hoshinolabs-vrchat/com.unity.scriptablebuildpipeline",
         "hoshinolabs-vrchat/Sardinject",
-        "hoshinolabs-vrchat/Localization"
+        "hoshinolabs-vrchat/Localization",
+        "hoshinolabs-vrchat/Sardinal"
     ],
     "packages":[
     ]
