@@ -9,15 +9,15 @@
     },
     "description":"HoshinoLabs listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/hoshinolabs-vrchat/com.hoshinolabs.vpm",
+        "url":"http://github.com/hoshinolabs/com.hoshinolabs.vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hoshinolabs-vrchat/com.unity.scriptablebuildpipeline",
-        "hoshinolabs-vrchat/Sardinject",
-        "hoshinolabs-vrchat/Localization",
-        "hoshinolabs-vrchat/Sardinal"
+        "hoshinolabs/com.unity.scriptablebuildpipeline",
+        "hoshinolabs/Sardinject",
+        "hoshinolabs/Localization",
+        "hoshinolabs/Sardinal"
     ],
     "packages":[
     ]
