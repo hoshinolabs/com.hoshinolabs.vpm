@@ -16,7 +16,7 @@
     "githubRepos":[
         "hoshinolabs/com.unity.scriptablebuildpipeline",
         "hoshinolabs/Sardinject",
-        "hoshinolabs/Localization",
+        "hoshinolabs/ULocalization",
         "hoshinolabs/Sardinal"
     ],
     "packages":[
