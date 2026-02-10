@@ -20,7 +20,8 @@
         "ikuko/Sardinal",
         "ikuko/ClientSimPatcher",
         "ikuko/ClientSimExtensions",
-        "ikuko/UdonEmuTools"
+        "ikuko/UdonEmuTools",
+        "ikuko/modular-avatar-copy-scale-adjuster"
     ],
     "packages":[
     ]
